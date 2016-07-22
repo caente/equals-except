@@ -1,3 +1,5 @@
+This project has been moved to https://github.com/xdotai/equals-ignoring-fields
+
 # equals-except
 
 It compares two cases classes excluding specific *field names* rather than types.
